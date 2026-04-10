@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm Mildred Anashie
+
+🧬 I'm a Microbiology Graduate with interest in Data Analysis and Bioinformatics
+- I'm currently contributing to the Bioconductor Project  (Microbiome Study Curation/BugSigDB)
+📝 Also improving on my data analysis skills
+ 😄 Pronouns: She/Her
+Find me on:
+LinkedIn: www.linkedin.com/in/anashiemildred
 
 <!--
 **MyleeeA/MyleeeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
